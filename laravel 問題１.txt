@@ -1,0 +1,19 @@
+問題①
+
+①　ORM
+
+②　Eloquent
+
+③　Model
+
+④　Create
+
+⑤　Read
+
+⑥　Update
+
+⑦　.env
+
+⑧　Migration
+
+⑨　Seeding
